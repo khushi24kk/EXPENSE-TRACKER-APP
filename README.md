@@ -1,1 +1,3 @@
-# EXPENSE-TRACKER-APP
+# expenxe_app
+
+A new Flutter project.
